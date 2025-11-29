@@ -1,2 +1,25 @@
 # MBR-main
-This is a program that can destroy a computer; please test it in a virtual machine and this have main code
+# Boot Sector Research
+
+## ⚠️ CRITICAL WARNING
+
+**DANGEROUS CODE - EDUCATIONAL USE ONLY**
+
+### 🔒 REQUIRED ENVIRONMENT
+- Virtual Machine ONLY
+- Network DISCONNECTED  
+- Snapshots ENABLED
+- NO important data
+
+### 🚨 POTENTIAL IMPACT
+- Permanent system damage
+- Complete data loss
+- OS destruction
+
+### 📚 PURPOSE
+Academic research on:
+- MBR structure
+- Boot processes  
+- Security analysis
+
+*Use at your own risk. Author not liable for damages.*
